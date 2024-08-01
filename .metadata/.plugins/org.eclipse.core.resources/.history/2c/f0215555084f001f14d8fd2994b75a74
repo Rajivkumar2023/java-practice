@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1> welcome to login and registration form</h1>
+<h4><b>This is practice project👶👶</b></h4>
+<p>Frontend technologies used: HTML, CSS. </p>
+<P> Backend technologies used: JSP, servlet JDBC.</P>
+<P> Explore, learn , and conect with like-minded individuals.</P>
+<p> Feel free to login or Regiser to get started!</p>
+<div class="links">
+	<a href="login.jsp"><h2>Login</h2></a> 
+	<a href="register.jsp><h2>Register</h2></a>
+</div>
+</body>
+</html>

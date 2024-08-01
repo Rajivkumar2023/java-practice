@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body{
+	align-item:center;
+	background-color:#BEFD6C;
+	font-family:'Arial', sans-sarif;
+	justify-content:center;
+	margin:0;
+	backgorund-color:#BEFD6C;
+	background-image:url('image.png');
+	background-size:cover;
+	background-repeat: no-repeat;
+	color:333;
+	flex-direction:column;
+}
+.containter{
+	width:600px;
+	padding:20px;
+	border-radius:10px;
+	box-shadow: 0 0 20px rgba(0,0,1,0.4);
+	background-color:white;
+	text-align:center;
+	
+}

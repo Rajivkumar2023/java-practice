@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+	align-items:center;
+	background-color:#BEFD6C;
+	font-family:'Arial', sans-sarif;
+	justify-content:center;
+	height:100vh;
+	margin:0;
+	background-color:#BEFD6C;
+	background-image:url('background_img.jpg');
+	background-size:cover;
+	background-position:center center;
+	background-repeat: no-repeat;
+	color:#333;
+	display:flex;
+	flex-direction:column;
+}
+.containter{
+	width:600px;
+	padding:20px;
+	border-radius:10px;
+	box-shadow: 0 0 20px rgba(0,0,1,0.4);
+	background-color:dark;
+	text-align:center;
+	
+}

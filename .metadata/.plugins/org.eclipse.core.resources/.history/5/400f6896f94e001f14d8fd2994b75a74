@@ -1,0 +1,9 @@
+
+public class PreparedStatement {
+
+	public void setString(int i, String n) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
