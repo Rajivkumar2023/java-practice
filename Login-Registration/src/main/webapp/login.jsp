@@ -20,10 +20,18 @@
 
 <p><a href="index.html">Back to Home</a>
 
+<!-- Display error massage if login fails -->
 <% String error = request.getParameter("error");
 if(error != null && error.equals("1")){ %>
-<p style = "color:red;"> Invalid username or password. Please try Again !
+<p style = "color:red;"> Invalid username or password. Please try Again !</p>
 <% } %>
+
+
+<!-- Display error massage if Registration fails 
+<% String rs = request.getParameter("registration");
+if(rs != null && rs.equals("success")){ %>
+<p style = "color:green;"> Your Registration is successful. Please login.!</p>
+<% } %> -->
 
 </div>
 
